@@ -1,0 +1,53 @@
+c:\users\cs600g1\documents\visual studio 2010\Projects\視窗設計\視窗設計\bin\Debug\視窗設計.exe
+c:\users\cs600g1\documents\visual studio 2010\Projects\視窗設計\視窗設計\bin\Debug\視窗設計.pdb
+c:\users\cs600g1\documents\visual studio 2010\Projects\視窗設計\視窗設計\obj\x86\Debug\視窗設計.Form1.resources
+c:\users\cs600g1\documents\visual studio 2010\Projects\視窗設計\視窗設計\obj\x86\Debug\視窗設計.Form2.resources
+c:\users\cs600g1\documents\visual studio 2010\Projects\視窗設計\視窗設計\obj\x86\Debug\視窗設計.Properties.Resources.resources
+c:\users\cs600g1\documents\visual studio 2010\Projects\視窗設計\視窗設計\obj\x86\Debug\視窗設計.csproj.GenerateResource.Cache
+c:\users\cs600g1\documents\visual studio 2010\Projects\視窗設計\視窗設計\obj\x86\Debug\視窗設計.exe
+c:\users\cs600g1\documents\visual studio 2010\Projects\視窗設計\視窗設計\obj\x86\Debug\視窗設計.pdb
+C:\Users\cs600g1\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.exe
+C:\Users\cs600g1\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.pdb
+C:\Users\cs600g1\Desktop\視窗設計\視窗設計\bin\Debug\視窗設計.exe
+C:\Users\cs600g1\Desktop\視窗設計\視窗設計\bin\Debug\視窗設計.pdb
+C:\Users\cs600g1\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.Form1.resources
+C:\Users\cs600g1\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.Form2.resources
+C:\Users\cs600g1\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.Properties.Resources.resources
+C:\Users\cs600g1\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.csproj.GenerateResource.Cache
+C:\Users\cs600g1\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.csprojResolveAssemblyReference.cache
+C:\Users\CSPC645\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.exe
+C:\Users\CSPC645\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.pdb
+C:\Users\CSPC645\Desktop\視窗設計\視窗設計\bin\Debug\視窗設計.exe
+C:\Users\CSPC645\Desktop\視窗設計\視窗設計\bin\Debug\視窗設計.pdb
+C:\Users\CSPC645\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.csprojResolveAssemblyReference.cache
+C:\Users\CSPC645\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.Form1.resources
+C:\Users\CSPC645\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.Form2.resources
+C:\Users\CSPC645\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.Properties.Resources.resources
+C:\Users\CSPC645\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.csproj.GenerateResource.Cache
+C:\Users\PC2017\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.exe
+C:\Users\PC2017\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.pdb
+C:\Users\PC2017\Desktop\視窗設計\視窗設計\bin\Debug\視窗設計.exe
+C:\Users\PC2017\Desktop\視窗設計\視窗設計\bin\Debug\視窗設計.pdb
+C:\Users\PC2017\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.csprojResolveAssemblyReference.cache
+C:\Users\PC2017\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.Form1.resources
+C:\Users\PC2017\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.Form2.resources
+C:\Users\PC2017\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.Properties.Resources.resources
+C:\Users\PC2017\Desktop\視窗設計\視窗設計\obj\x86\Debug\視窗設計.csproj.GenerateResource.Cache
+C:\Users\PC2017\Desktop\視窗程式\視窗設計\obj\x86\Debug\視窗設計.exe
+C:\Users\PC2017\Desktop\視窗程式\視窗設計\obj\x86\Debug\視窗設計.pdb
+C:\Users\PC2017\Desktop\視窗程式\視窗設計\bin\Debug\視窗設計.exe
+C:\Users\PC2017\Desktop\視窗程式\視窗設計\bin\Debug\視窗設計.pdb
+C:\Users\PC2017\Desktop\視窗程式\視窗設計\obj\x86\Debug\視窗設計.csprojResolveAssemblyReference.cache
+C:\Users\PC2017\Desktop\視窗程式\視窗設計\obj\x86\Debug\視窗設計.Form1.resources
+C:\Users\PC2017\Desktop\視窗程式\視窗設計\obj\x86\Debug\視窗設計.Form2.resources
+C:\Users\PC2017\Desktop\視窗程式\視窗設計\obj\x86\Debug\視窗設計.Properties.Resources.resources
+C:\Users\PC2017\Desktop\視窗程式\視窗設計\obj\x86\Debug\視窗設計.csproj.GenerateResource.Cache
+C:\Users\cs600g1\Desktop\視窗程式\視窗設計\obj\x86\Debug\視窗設計.exe
+C:\Users\cs600g1\Desktop\視窗程式\視窗設計\obj\x86\Debug\視窗設計.pdb
+C:\Users\cs600g1\Desktop\視窗程式\視窗設計\bin\Debug\視窗設計.exe
+C:\Users\cs600g1\Desktop\視窗程式\視窗設計\bin\Debug\視窗設計.pdb
+C:\Users\cs600g1\Desktop\視窗程式\視窗設計\obj\x86\Debug\視窗設計.csprojResolveAssemblyReference.cache
+C:\Users\cs600g1\Desktop\視窗程式\視窗設計\obj\x86\Debug\視窗設計.Form1.resources
+C:\Users\cs600g1\Desktop\視窗程式\視窗設計\obj\x86\Debug\視窗設計.Form2.resources
+C:\Users\cs600g1\Desktop\視窗程式\視窗設計\obj\x86\Debug\視窗設計.Properties.Resources.resources
+C:\Users\cs600g1\Desktop\視窗程式\視窗設計\obj\x86\Debug\視窗設計.csproj.GenerateResource.Cache
